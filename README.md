@@ -1,4 +1,4 @@
-# Orinoco 
+# Orinoco (apparemment obsoléte. A debugué d'urgence !)
 
 Projet 5 du parcours Développeur web d'OpenClassrooms : Construire un site e-commerce
 
@@ -11,7 +11,7 @@ Il s'agit d'un MVP (Produit Minimum Viable) d'une application thématique ne ven
 - Gérer des événements JavaScript
 
 ### Prérequis
-- Cloner ce repository : https://github.com/OpenClassrooms-Student-Center/JWDP5 et créer un dossier back-end
+- Cloner ce repository et créer un dossier back-end
 - Se placer dans le dossier back-end 
 - Installer Node.js et npm (taper "node -v" et "npm -v" dans le terminal de l'éditeur de code pour vérifier que le tout est bien installé et les versions installées)
 - Lancer npm avec la commande "npm install" pour installer les dépendances
