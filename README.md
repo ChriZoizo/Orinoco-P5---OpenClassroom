@@ -1,4 +1,6 @@
-# Orinoco (apparemment obsoléte. A debugué d'urgence !)
+# Orinoco 
+
+(non fini a 100% car le projet numero 5 fut changé pas OpenClassroom p our le projet KanaP)
 
 Projet 5 du parcours Développeur web d'OpenClassrooms : Construire un site e-commerce
 
